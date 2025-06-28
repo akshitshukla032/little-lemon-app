@@ -1,3 +1,11 @@
+![IMG-20250628-WA0010](https://github.com/user-attachments/assets/a763102e-aed1-496a-9b66-d007e5544617)
+![IMG-20250628-WA0009](https://github.com/user-attachments/assets/158c093c-d83a-40e1-85bf-719419a20e69)
+![IMG-20250628-WA0008](https://github.com/user-attachments/assets/9dd557fe-7e41-4e29-af41-afe32db372aa)
+![IMG-20250628-WA0007](https://github.com/user-attachments/assets/51f16cbd-464d-4c45-b933-bdfbddcd50f4)
+![IMG-20250628-WA0006](https://github.com/user-attachments/assets/19e7347d-d5b6-4c6d-92da-a8728504dca3)
+![IMG-20250628-WA0005](https://github.com/user-attachments/assets/64de00f7-b694-403b-bd79-6ca2165de0ee)
+![IMG-20250628-WA0004](https://github.com/user-attachments/assets/658703f4-b9a2-416a-9bbe-9c82bf49b928)
+![IMG-20250628-WA0003](https://github.com/user-attachments/assets/d742485b-56f3-4ff1-9c66-dbccf89ef581)
 # 🍋 Little Lemon Restaurant App
 
 A full-featured food ordering mobile app built using **React Native with Expo**, inspired by a real restaurant experience.
